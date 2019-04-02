@@ -40,4 +40,4 @@ For Linux
 
 ```sh
 $ npm run package-linux
-```
+```"Diplomacy" 
